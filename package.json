@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"TEST WOULD BE HERE\" && exit 0"
+  },
   "author": "",
   "license": "ISC",
   "publishConfig": {
